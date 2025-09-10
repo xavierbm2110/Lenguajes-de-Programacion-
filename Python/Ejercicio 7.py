@@ -12,3 +12,5 @@ prom = suma_total / 10
 
 print(f"\nLa suma total es: {suma_total}")
 print(f"El promedio de esta suma es: {prom}")
+
+
